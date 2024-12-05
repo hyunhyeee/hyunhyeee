@@ -3,7 +3,7 @@
   <div align= "left">
     <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunhyeee%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hello~&edge_flat=false"/></a>
   </div>
-  
+
   <div align= "center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hyunhyeee&theme=blood-dark&border_radius=5&locale=ko" alt="GitHub Streak" /></a>
   </div>
@@ -17,6 +17,8 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
     <div align= "center">
       <a href=mailto:way4202@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:way4202@gmail.com"> </a>
+      <a href="https://www.instagram.com/hyunnn._.p/"> <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/hyunnn._.p/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+      </a>
     </div>
     <br> 
   </div>
@@ -47,7 +49,8 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
       <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"><br/><br/>
-      <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+      <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
     </div>
   </div>
   
