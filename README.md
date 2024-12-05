@@ -33,11 +33,12 @@
     </div>
   </div>
   <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👻 Used Tools </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👻 Tools </h2>
     <div style="margin: 0 auto; text-align: center;" align= "center">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
       <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"><br/><br/>
+      <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
     </div>
   </div>
   <div align= "center"> 
