@@ -1,4 +1,4 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=hyunhye's%20github&aline&fontColor=ffffff&fontSize=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=hyunhye's%20github&aline&fontColor=ffffff&fontSize=40" width="100%"/>
 
   <div align= "left">
     <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunhyeee%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hello~&edge_flat=false"/></a>
@@ -10,7 +10,7 @@
   
   <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 굼벵이의 공간 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 무엇을 추가하면 좋을까.. </div> 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hi+Melody&pause=1000&color=157AF7&background=FFFFFF00&center=true&width=435&lines=%EC%96%B8%EC%A0%A0%EA%B0%80+%EB%82%B4+%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D+%EB%A7%8E%EC%9D%B4+%EC%B1%84%EC%9B%8C%EC%A7%80%EA%B2%8C%EC%B0%8C....%3F" alt="Typing SVG" /></a>
   </div>
   
   <div align= "center">
